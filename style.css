@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;  
+}
+.card-text{
+    font-size: 14px;
+}
+.card{
+   padding: 11px;
+}
+.card-text.box {
+	margin-top: 11px;
+}
+.card-text.box-three {
+	padding: 23px;
+}
+.card-text.box-fore {
+	padding:22px;
+}
+.card-text {
+	padding: 1px;
+}
+.one{
+    background: #F2C8C9;
+}
+.hero{
+    background: #4384de;
+    width: 100%;
+}
